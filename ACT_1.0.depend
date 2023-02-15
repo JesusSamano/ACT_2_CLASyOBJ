@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1675108792 source:c:\users\thinkpad t440\desktop\udging\5to\sem_algoritmia\act_1.0\main.cpp
+	<iostream>
+	<fstream>
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"Paqueteria.h"
+	"Paquete.h"
+
+1675111207 c:\users\thinkpad t440\desktop\udging\5to\sem_algoritmia\act_1.0\paqueteria.h
+	<iostream>
+	<exception>
+
+1675101017 source:c:\users\thinkpad t440\desktop\udging\5to\sem_algoritmia\act_1.0\paqueteria.cpp
+	"Paqueteria.h"
+
+1675103010 c:\users\thinkpad t440\desktop\udging\5to\sem_algoritmia\act_1.0\paquete.h
+	<iostream>
+
+1675103344 source:c:\users\thinkpad t440\desktop\udging\5to\sem_algoritmia\act_1.0\paquete.cpp
+	"Paquete.h"
+	<iostream>
+	<string>
+
+1675101017 source:c:\users\thinkpad t440\desktop\udging\5to\sem_algoritmia\act_2.1\paqueteria.cpp
+	"Paqueteria.h"
+
+1675290645 c:\users\thinkpad t440\desktop\udging\5to\sem_algoritmia\act_2.1\paqueteria.h
+	<iostream>
+	<exception>
+
+1675290674 source:c:\users\thinkpad t440\desktop\udging\5to\sem_algoritmia\act_2.1\main.cpp
+	<iostream>
+	<fstream>
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"Paqueteria.h"
+	"Paquete.h"
+
+1675103010 c:\users\thinkpad t440\desktop\udging\5to\sem_algoritmia\act_2.1\paquete.h
+	<iostream>
+
+1675290674 source:c:\users\thinkpad t440\desktop\udging\5to\sem_algoritmia\act_2.1\paquete.cpp
+	"Paquete.h"
+	<iostream>
+	<string>
+
+1675292112 source:c:\users\thinkpad t440\desktop\udging\5to\sem_algoritmia\act_2_qt\paquete.cpp
+	"Paquete.h"
+	<iostream>
+	<string>
+
+1675292837 c:\users\thinkpad t440\desktop\udging\5to\sem_algoritmia\act_2_qt\paquete.h
+	<iostream>
+
+1675101017 source:c:\users\thinkpad t440\desktop\udging\5to\sem_algoritmia\act_2_qt\paqueteria.cpp
+	"Paqueteria.h"
+
+1675292867 c:\users\thinkpad t440\desktop\udging\5to\sem_algoritmia\act_2_qt\paqueteria.h
+	<iostream>
+	<exception>
+
+1675292245 source:c:\users\thinkpad t440\desktop\udging\5to\sem_algoritmia\act_2_qt\main.cpp
+	<iostream>
+	<fstream>
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"Paqueteria.h"
+	"Paquete.h"
+
